@@ -12,7 +12,7 @@
 
 
 <http://spa.openglam.ch/spa/voc> a owl:Ontology;
-        dc:title "Extended Performing Arts Vocabulary (Swiss Theatre Collection)!"@en;
+        dc:title "Extended Performing Arts Vocabulary (Swiss Theatre Collection)"@en;
         dc:title "Erweitertes Vokabular der darstellenden Künste (Schweizerische Theatersammlung)"@de;
         dc:description "This vocuabulary extends the ECLAP, Schema and Dublin Core Terms vocabulary by specifying further classes and properties related to the performing arts domain that are relevant for the description of the collections of the Swiss Theatre Collection and are not specified elsewhere."@en;
         dc:description "Dieses Vokabular erweitert die Vokabulare von ECLAP, Schema und Dublin Core Terms, indem es für den Bereich der darstellenden Künste zusätzliche Klassen und Properties definiert, welche für die Beschreibung der Bestände der Schweizerischen Theatersammlung relevant sindrt sind."@de;
